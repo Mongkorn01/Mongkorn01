@@ -1,6 +1,10 @@
-## Hi, I'm Mongkorn
+<h1 align="center">
+  <code>Hi 👋, I'm Mongkorn</code>
+</h1>
 
-![Profile views](https://gpvc.arturio.dev/placeholder)<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mongkorn01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 An undergraduate student of the Faculty of ICT, Mahidol University.
 
 ### Languages and Tools:
@@ -13,4 +17,4 @@ An undergraduate student of the Faculty of ICT, Mahidol University.
 </p>
 
 ### GitHub Stats
-[![Mongkorn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mongkorn01&show_icons=true&theme=tokyonight&bg_color=HEX_CODE&border_color=HEX_CODE)](https://github.com/Mongkorn01)
+[![Mongkorn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mongkorn01&show_icons=true&theme=tokyonight&bg_color=0a192f&border_color=ffffff&title_color=38bdf8&text_color=e2e8f0)](https://github.com/Mongkorn01)
